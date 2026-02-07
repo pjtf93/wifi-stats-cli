@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## session-2026-02-07-1533 (2026-02-07 15:33 CET)
+- Added `skill.md` with agent-focused usage guidance for `wifi-stats-cli` (`npx`, JSON mode, flags, interpretation, requirements, failure modes).
+
 ## session-2026-02-07-1459 (2026-02-07 14:59 CET)
 - Added `.gitignore` for repo hygiene (`node_modules`, `dist`, logs, `.DS_Store`).
 - Initialized git repository and prepared first commit.
